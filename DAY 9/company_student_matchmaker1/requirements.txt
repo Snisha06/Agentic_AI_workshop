@@ -1,0 +1,39 @@
+# langchain
+# google-generativeai
+# streamlit
+# python-dotenv
+# langchain-community
+# langchain-google-genai
+# langchain
+# tqdm
+# pydantic
+# PyMuPDF
+# langgraph
+# Core packages
+langchain
+langchain-community
+langchain-google-genai
+google-generativeai
+python-dotenv
+streamlit
+tqdm
+pydantic
+
+# For reading and generating PDFs
+PyMuPDF  # used as `fitz`
+fpdf     # used for PDF generation
+
+# Vector store support (FAISS is common)
+faiss-cpu  # or faiss-gpu if you want GPU acceleration
+
+# LangGraph (stateful flows)
+langgraph
+
+
+
+
+
+
+
+
+
