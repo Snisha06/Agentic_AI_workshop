@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+openai
+langchain
+langgraph
+faiss-cpu
+pdfminer.six
+gitpython
+beautifulsoup4
+httpx
+tavily-python
+python-dotenv
+langchain-community
+
+
