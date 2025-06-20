@@ -191,5 +191,5 @@ home_screen.dart
    static const String baseUrl = 'http://<my-backend-ip>:8000';
 
 
-   Demo Video Link:-https://drive.google.com/file/d/1_PfGlfBMvP-6xMjwXuWPRE7tJkOcQHHz/view?usp=drive_link
-   Project Architecture :- https://drive.google.com/file/d/1m4dakUm8rf0eNgN0aDqWLlf51RaRJwdq/view?usp=drive_link
+   Demo Video Link:- https://drive.google.com/file/d/1m4dakUm8rf0eNgN0aDqWLlf51RaRJwdq/view?usp=sharing
+   Project Architecture :- https://drive.google.com/file/d/1m4dakUm8rf0eNgN0aDqWLlf51RaRJwdq/view?usp=sharing
