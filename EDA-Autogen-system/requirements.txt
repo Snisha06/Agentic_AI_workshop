@@ -1,0 +1,5 @@
+pandas
+seaborn
+matplotlib
+autogen
+python-dotenv
