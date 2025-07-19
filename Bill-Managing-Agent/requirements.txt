@@ -1,0 +1,5 @@
+crewai
+pytesseract
+pillow
+python-dotenv
+pydantic
