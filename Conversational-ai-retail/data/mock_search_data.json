@@ -1,0 +1,22 @@
+{
+  "results": [
+    {
+      "name": "TrendyThreads",
+      "location": "Koramangala 5th Block",
+      "footfall": "High",
+      "peak_hours": "5 PM - 8 PM"
+    },
+    {
+      "name": "StyleHub",
+      "location": "Koramangala 7th Block",
+      "footfall": "Medium",
+      "peak_hours": "4 PM - 7 PM"
+    },
+    {
+      "name": "FashionFiesta",
+      "location": "Koramangala 6th Block",
+      "footfall": "Low",
+      "peak_hours": "6 PM - 9 PM"
+    }
+  ]
+}
